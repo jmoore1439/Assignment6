@@ -6,7 +6,7 @@ versionCode = "1"
 version     = "0.0.1" >    
 
 <!-- versionCode is optional and Android only -->   
- <name>IS 491 Class Assignment</name>    
+ <name>IS 491 Assignment 6</name>    
 <description>       
  Mobile App Assignment for IS 491 class.     
 </description>   
